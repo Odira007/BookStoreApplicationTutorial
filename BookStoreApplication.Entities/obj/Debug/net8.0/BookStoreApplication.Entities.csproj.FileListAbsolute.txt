@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\BookStoreApplication\BookStoreApplication.Entities\bin\Debug\net8.0\BookStoreApplication.Entities.deps.json
+C:\Users\HP\source\repos\BookStoreApplication\BookStoreApplication.Entities\bin\Debug\net8.0\BookStoreApplication.Entities.dll
+C:\Users\HP\source\repos\BookStoreApplication\BookStoreApplication.Entities\bin\Debug\net8.0\BookStoreApplication.Entities.pdb
+C:\Users\HP\source\repos\BookStoreApplication\BookStoreApplication.Entities\obj\Debug\net8.0\BookStoreApplication.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\BookStoreApplication\BookStoreApplication.Entities\obj\Debug\net8.0\BookStoreApplication.Entities.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\BookStoreApplication\BookStoreApplication.Entities\obj\Debug\net8.0\BookStoreApplication.Entities.AssemblyInfo.cs
+C:\Users\HP\source\repos\BookStoreApplication\BookStoreApplication.Entities\obj\Debug\net8.0\BookStoreApplication.Entities.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\BookStoreApplication\BookStoreApplication.Entities\obj\Debug\net8.0\BookStoreApplication.Entities.dll
+C:\Users\HP\source\repos\BookStoreApplication\BookStoreApplication.Entities\obj\Debug\net8.0\refint\BookStoreApplication.Entities.dll
+C:\Users\HP\source\repos\BookStoreApplication\BookStoreApplication.Entities\obj\Debug\net8.0\BookStoreApplication.Entities.pdb
+C:\Users\HP\source\repos\BookStoreApplication\BookStoreApplication.Entities\obj\Debug\net8.0\ref\BookStoreApplication.Entities.dll

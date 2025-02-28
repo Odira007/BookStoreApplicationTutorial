@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\BookStoreApplication\BookStoreApplication.Services\bin\Debug\net8.0\BookStoreApplication.Services.deps.json
+C:\Users\HP\source\repos\BookStoreApplication\BookStoreApplication.Services\bin\Debug\net8.0\BookStoreApplication.Services.dll
+C:\Users\HP\source\repos\BookStoreApplication\BookStoreApplication.Services\bin\Debug\net8.0\BookStoreApplication.Services.pdb
+C:\Users\HP\source\repos\BookStoreApplication\BookStoreApplication.Services\bin\Debug\net8.0\BookStoreApplication.DataBase.dll
+C:\Users\HP\source\repos\BookStoreApplication\BookStoreApplication.Services\bin\Debug\net8.0\BookStoreApplication.Entities.dll
+C:\Users\HP\source\repos\BookStoreApplication\BookStoreApplication.Services\bin\Debug\net8.0\BookStoreApplication.DataBase.pdb
+C:\Users\HP\source\repos\BookStoreApplication\BookStoreApplication.Services\bin\Debug\net8.0\BookStoreApplication.Entities.pdb
+C:\Users\HP\source\repos\BookStoreApplication\BookStoreApplication.Services\obj\Debug\net8.0\BookStoreApplication.Services.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\BookStoreApplication\BookStoreApplication.Services\obj\Debug\net8.0\BookStoreApplication.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\BookStoreApplication\BookStoreApplication.Services\obj\Debug\net8.0\BookStoreApplication.Services.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\BookStoreApplication\BookStoreApplication.Services\obj\Debug\net8.0\BookStoreApplication.Services.AssemblyInfo.cs
+C:\Users\HP\source\repos\BookStoreApplication\BookStoreApplication.Services\obj\Debug\net8.0\BookStoreApplication.Services.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\BookStoreApplication\BookStoreApplication.Services\obj\Debug\net8.0\BookStor.AC4FAED3.Up2Date
+C:\Users\HP\source\repos\BookStoreApplication\BookStoreApplication.Services\obj\Debug\net8.0\BookStoreApplication.Services.dll
+C:\Users\HP\source\repos\BookStoreApplication\BookStoreApplication.Services\obj\Debug\net8.0\refint\BookStoreApplication.Services.dll
+C:\Users\HP\source\repos\BookStoreApplication\BookStoreApplication.Services\obj\Debug\net8.0\BookStoreApplication.Services.pdb
+C:\Users\HP\source\repos\BookStoreApplication\BookStoreApplication.Services\obj\Debug\net8.0\ref\BookStoreApplication.Services.dll

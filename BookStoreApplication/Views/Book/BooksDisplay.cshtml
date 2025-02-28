@@ -1,0 +1,48 @@
+﻿@model BooksViewModel
+
+@{
+    ViewData["Title"] = "View";
+}
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>
+            Books List
+        </title>
+    </head>
+    <body>
+        <div>
+            <h2 class="mb-3">
+                Books List
+            </h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Id</th>
+                        <th>Title</th>
+                        <th>Description</th>
+                        <th>Total Pages</th>
+                        <th>Date of Creation</th>
+                        
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach(var book in Model.books) 
+                    {
+                        <tr>
+                            <td>@book.Id</td>
+                            <td>@book.Title</td>
+                            <td>@book.Description</td>
+                            <td>@book.TotalPages</td>
+                            <td>@book.CreatedAt</td>
+                       
+                        </tr>
+                    }
+                </tbody>
+
+            </table>
+        </div>
+    </body>
+</html>
+

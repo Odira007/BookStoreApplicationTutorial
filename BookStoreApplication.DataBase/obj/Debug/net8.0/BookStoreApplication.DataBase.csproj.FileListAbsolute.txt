@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\BookStoreApplication\BookStoreApplication.DataBase\bin\Debug\net8.0\BookStoreApplication.DataBase.deps.json
+C:\Users\HP\source\repos\BookStoreApplication\BookStoreApplication.DataBase\bin\Debug\net8.0\BookStoreApplication.DataBase.dll
+C:\Users\HP\source\repos\BookStoreApplication\BookStoreApplication.DataBase\bin\Debug\net8.0\BookStoreApplication.DataBase.pdb
+C:\Users\HP\source\repos\BookStoreApplication\BookStoreApplication.DataBase\bin\Debug\net8.0\BookStoreApplication.Entities.dll
+C:\Users\HP\source\repos\BookStoreApplication\BookStoreApplication.DataBase\bin\Debug\net8.0\BookStoreApplication.Entities.pdb
+C:\Users\HP\source\repos\BookStoreApplication\BookStoreApplication.DataBase\obj\Debug\net8.0\BookStoreApplication.DataBase.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\BookStoreApplication\BookStoreApplication.DataBase\obj\Debug\net8.0\BookStoreApplication.DataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\BookStoreApplication\BookStoreApplication.DataBase\obj\Debug\net8.0\BookStoreApplication.DataBase.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\BookStoreApplication\BookStoreApplication.DataBase\obj\Debug\net8.0\BookStoreApplication.DataBase.AssemblyInfo.cs
+C:\Users\HP\source\repos\BookStoreApplication\BookStoreApplication.DataBase\obj\Debug\net8.0\BookStoreApplication.DataBase.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\BookStoreApplication\BookStoreApplication.DataBase\obj\Debug\net8.0\BookStor.DF09C614.Up2Date
+C:\Users\HP\source\repos\BookStoreApplication\BookStoreApplication.DataBase\obj\Debug\net8.0\BookStoreApplication.DataBase.dll
+C:\Users\HP\source\repos\BookStoreApplication\BookStoreApplication.DataBase\obj\Debug\net8.0\refint\BookStoreApplication.DataBase.dll
+C:\Users\HP\source\repos\BookStoreApplication\BookStoreApplication.DataBase\obj\Debug\net8.0\BookStoreApplication.DataBase.pdb
+C:\Users\HP\source\repos\BookStoreApplication\BookStoreApplication.DataBase\obj\Debug\net8.0\ref\BookStoreApplication.DataBase.dll
